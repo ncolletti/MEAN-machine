@@ -1,5 +1,8 @@
 # MeanMachine
 
+This project is me simply practicing my Angular front end skills. Working with components and a MVC framework which I enjoy setting up. I am following a UDEMY tutorial here for the most part and will be adding to it afterward.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
